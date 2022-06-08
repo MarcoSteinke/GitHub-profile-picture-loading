@@ -1,2 +1,3 @@
 # GitHub-profile-picture-loading
+
 Basic demo which shows how to get a profile picture of a GitHub user
