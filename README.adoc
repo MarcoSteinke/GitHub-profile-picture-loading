@@ -21,3 +21,13 @@ import {GitHubProfilePicture} from "https://cdn.jsdelivr.net/gh/MarcoSteinke/Git
 ```html
 <script src="https://cdn.jsdelivr.net/gh/MarcoSteinke/GitHub-profile-picture-loading@b2a40acad1c52b92bc1ce2887117e9cfc1dba35f/GitHubProfilePicture.js"></script>
 ```
+
+The following code snippet shows an example of how to load an avatar from github:
+
+```javascript
+
+const image = document.querySelector("#myImage")
+const avatar = GitHubProfilePicture.loadForUsername("torvalds")
+image.src = avatar.getProfilePictureURL()
+
+```
