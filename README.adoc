@@ -36,3 +36,7 @@ image.src = avatar.getProfilePictureURL()
 
 - In the future this documentation will be more consistently using the term "avatar" instead of sometimes switching to "profile picture"
 - The method "getProfilePictureURL()" and the class "GitHubProfilePicture" will be renamed to "getAvatarURL()" and "GitHubAvatar"
+
+## License:
+
+This project is licensed using the "MIT" license. You will find details https://github.com/MarcoSteinke/GitHub-profile-picture-loading/blob/main/LICENSE[HERE]
