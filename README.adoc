@@ -5,3 +5,19 @@ Basic demo which shows how to get a profile picture of a GitHub user
 You can either click the "submit"-button or hit "ENTER" inside of the input.
 
 The demo can be accessed using the following link: https://www.bestofcode.net/Applications/github-avatar[Click here]
+
+## Usage:
+
+To use this utility in your project there are 2 possibilities:
+
+#### 1. Import inside of the code:
+
+```javascript
+import {GitHubProfilePicture} from "https://cdn.jsdelivr.net/gh/MarcoSteinke/GitHub-profile-picture-loading@b2a40acad1c52b92bc1ce2887117e9cfc1dba35f/GitHubProfilePicture.js";
+```
+
+#### 2. Import into frontend using script-tag:
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/MarcoSteinke/GitHub-profile-picture-loading@b2a40acad1c52b92bc1ce2887117e9cfc1dba35f/GitHubProfilePicture.js"></script>
+```
