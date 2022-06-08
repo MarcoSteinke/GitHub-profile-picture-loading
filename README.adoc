@@ -2,4 +2,6 @@
 
 Basic demo which shows how to get a profile picture of a GitHub user
 
+You can either click the "submit"-button or hit "ENTER" inside of the input.
+
 The demo can be accessed using the following link: https://www.bestofcode.net/Applications/github-avatar[Click here]
