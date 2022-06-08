@@ -31,3 +31,8 @@ const avatar = GitHubProfilePicture.loadForUsername("torvalds")
 image.src = avatar.getProfilePictureURL()
 
 ```
+
+## Future changes:
+
+- In the future this documentation will be more consistently using the term "avatar" instead of sometimes switching to "profile picture"
+- The method "getProfilePictureURL()" and the class "GitHubProfilePicture" will be renamed to "getAvatarURL()" and "GitHubAvatar"
