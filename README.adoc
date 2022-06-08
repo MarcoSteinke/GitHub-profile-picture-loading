@@ -1,4 +1,4 @@
-# GitHub-profile-picture-loading
+# 📷 GitHub-profile-picture-loading
 
 Basic demo which shows how to get a profile picture of a GitHub user
 
@@ -6,7 +6,7 @@ You can either click the "submit"-button or hit "ENTER" inside of the input.
 
 The demo can be accessed using the following link: https://www.bestofcode.net/Applications/github-avatar[Click here]
 
-## Usage:
+## ⚡️ Usage:
 
 To use this utility in your project there are 2 possibilities:
 
@@ -32,11 +32,11 @@ image.src = avatar.getProfilePictureURL()
 
 ```
 
-## Future changes:
+## ⁉️ Future changes:
 
 - In the future this documentation will be more consistently using the term "avatar" instead of sometimes switching to "profile picture"
 - The method "getProfilePictureURL()" and the class "GitHubProfilePicture" will be renamed to "getAvatarURL()" and "GitHubAvatar"
 
-## License:
+## ⚖ License:
 
 This project is licensed using the "MIT" license. You will find details https://github.com/MarcoSteinke/GitHub-profile-picture-loading/blob/main/LICENSE[HERE]
